@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Pillar 1 Chapter 1.unity
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3be1d14c3fa9a4f4989c2b0d5fda6b96
+  - enabled: 1
+    path: Assets/Scenes/Pillar 1/Pillar 1 Chapter Select.unity
+    guid: e8e9bd642688b4a4f9c773dab2dc1351
+  - enabled: 1
+    path: Assets/Scenes/Pillar 1/Chapters/Pillar 1 Chapter 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
