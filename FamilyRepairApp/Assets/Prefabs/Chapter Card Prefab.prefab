@@ -89,7 +89,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce5572b3bd8ff044b8dde5dcc3a97937, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoadWhenClicked: Pillar 1 Chapter 1
+  sceneToLoadWhenClicked: Pillar 1 Ch 1
 --- !u!1 &7726425819418626285
 GameObject:
   m_ObjectHideFlags: 0

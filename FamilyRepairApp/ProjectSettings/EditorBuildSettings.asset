@@ -12,6 +12,36 @@ EditorBuildSettings:
     path: Assets/Scenes/Pillar 1/Pillar 1 Chapter Select.unity
     guid: e8e9bd642688b4a4f9c773dab2dc1351
   - enabled: 1
-    path: Assets/Scenes/Pillar 1/Chapters/Pillar 1 Chapter 1.unity
+    path: Assets/Scenes/Pillar 1/Pillar 1 Ch 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Pillar 1/Pillar 1 Ch 2.unity
+    guid: bb1482badf272cb458500b102ba78845
+  - enabled: 1
+    path: Assets/Scenes/Pillar 1/Pillar 1 Ch 3.unity
+    guid: 0fa51b78055b748419723c23920e3b4b
+  - enabled: 1
+    path: Assets/Scenes/Pillar 2/Pillar 2 Chapter Select.unity
+    guid: a15c6bf9fad226c4a982fc5364fdf41f
+  - enabled: 1
+    path: Assets/Scenes/Pillar 3/Pillar 3 Chapter Select.unity
+    guid: 52acedd45198e54408151477a9559397
+  - enabled: 1
+    path: Assets/Scenes/Pillar 4/Pillar 4 Chapter Select.unity
+    guid: f4b6937e29067f84aa8ffaecb15dbd83
+  - enabled: 1
+    path: Assets/Scenes/Pillar 5/Pillar 5 Chapter Select.unity
+    guid: f2fd831a5a0d0d540b7ac9e54a7df6a0
+  - enabled: 1
+    path: Assets/Scenes/Pillar 6/Pillar 6 Chapter Select.unity
+    guid: 8eb406625c8d5d044916c35feb2a1182
+  - enabled: 1
+    path: Assets/Scenes/Pillar 7/Pillar 7 Chapter Select.unity
+    guid: 0e51523d479da584b8b3a0d6f48de5cf
+  - enabled: 1
+    path: Assets/Scenes/Pillar 8/Pillar 8 Chapter Select.unity
+    guid: d46b4136ab5ec44488045f92e5764406
+  - enabled: 1
+    path: Assets/Scenes/Pillar 9/Pillar 9 Chapter Select.unity
+    guid: 0894a60c0f78e13449c20e56702bdafe
   m_configObjects: {}
