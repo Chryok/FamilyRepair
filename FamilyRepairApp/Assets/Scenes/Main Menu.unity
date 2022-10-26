@@ -224,7 +224,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 8 Chapter Select
+      value: Chapter Select Pillar 8
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -407,7 +407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 2 Chapter Select
+      value: Chapter Select Pillar 2
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -524,7 +524,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 9 Chapter Select
+      value: Chapter Select Pillar 9
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -656,7 +656,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 3 Chapter Select
+      value: Chapter Select Pillar 3
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -713,7 +713,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0.16466069, b: 1, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -861,7 +861,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 6 Chapter Select
+      value: Chapter Select Pillar 6
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -983,7 +983,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 4 Chapter Select
+      value: Chapter Select Pillar 4
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -1105,7 +1105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 7 Chapter Select
+      value: Chapter Select Pillar 7
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -1117,6 +1117,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697913868723, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8359795784417686297, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: m_EffectColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8359795784417686297, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: m_EffectColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8359795784417686297, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: m_EffectColor.r
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1204,7 +1216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0}
+  m_Color: {r: 0.705976, g: 0.9249421, b: 0.986, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1349,7 +1361,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: sceneToLoadWhenClicked
-      value: Pillar 5 Chapter Select
+      value: Chapter Select Pillar 5
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Layer
@@ -1375,10 +1387,6 @@ PrefabInstance:
     - target: {fileID: 3846567697343594908, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Name
       value: Pillar Card Prefab (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 3846567697343594908, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
-      propertyPath: m_Layer
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3846567697343594909, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Pivot.x
@@ -1464,13 +1472,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3846567697877170671, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3846567697913868723, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
-      propertyPath: m_Layer
-      value: 0
+    - target: {fileID: 3846567697343594912, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: sceneToLoadWhenClicked
+      value: Chapter Select Pillar 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
@@ -1622,11 +1626,11 @@ RectTransform:
   m_Father: {fileID: 1890428416}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 281.6684, y: 125}
-  m_Pivot: {x: 0, y: 1}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 5, y: 0}
+  m_SizeDelta: {x: 112, y: 125}
+  m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &1812498098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1647,9 +1651,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8d29eb9f86eeabf4c8871998102030a1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 41f80c0a4711c7a4f938dcbf426a40f7, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1817,7 +1821,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.8239019, b: 1, a: 1}
+  m_Color: {r: 0.06666667, g: 0.47450984, b: 0.5882353, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
