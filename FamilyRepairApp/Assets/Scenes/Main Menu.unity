@@ -274,6 +274,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 8978e05033a0db44fabd09ca93b0b590, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8474916401181762097, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Text
       value: Success = Avoiding Arguments
@@ -497,6 +513,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 0996383dc1b6b83498d1587374eaeede, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8474916401181762097, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Text
       value: Act Your Age
@@ -654,6 +686,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: fd721b832fdd3704ea053eef0c4b2365, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8474916401181762097, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Text
       value: Honoring the Child Has Amazing Results
@@ -826,6 +874,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 345cee32621651f49ba553fec0947ddf, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8474916401181762097, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Text
       value: Disruptive/Challenging Behavior Is a Way of Coping
@@ -1075,6 +1139,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: b99261da72e879b46b01a7be6d02db50, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8474916401181762097, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Text
       value: How We Communicate Changes Our Message
@@ -1245,6 +1325,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 1b47fd429848f1a4d990fd9cdfaef3cf, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8474916401181762097, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Text
       value: How We See Things Influences Our Relationships
@@ -1411,6 +1507,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 8a4ba13e905a25a488cf8ae3acc835dd, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8359795784417686297, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_EffectColor.b
       value: 0
@@ -1564,10 +1676,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec62ad496fdfc9e4f825023750d2b2a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScreenPercentToScaleToV: 19
-  ScreenPercentToScaleToH: 0
+  UseAnotherRectAsRef: 0
+  refRectTransform: {fileID: 0}
+  PaddingCompensationV: 0
   ConstantUpdate: 1
   ScaleHorizontal: 0
+  ScreenPercentToScaleToV: 0.9
+  ScreenPercentToScaleToH: 0
 --- !u!224 &1190579152 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3846567697343594909, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
@@ -1724,6 +1839,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 8bb4acbb2fbffbb42af63156ab4b8c3b, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     - target: {fileID: 8474916401181762097, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
       propertyPath: m_Text
       value: Adult Responses Can Alter the Child's Behavior
@@ -1873,6 +2004,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 14737ba261edec6409d175e5342a38c3, type: 3}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: refRectTransform
+      value: 
+      objectReference: {fileID: 1398939758}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: UseAnotherRectAsRef
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: PaddingCompensationV
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162492664190043611, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
+      propertyPath: ScreenPercentToScaleToV
+      value: 0.11111111
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 271581f0e568fed4d8fdfe032eff59b4, type: 3}
 --- !u!224 &1209851087 stripped
@@ -1988,10 +2135,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec62ad496fdfc9e4f825023750d2b2a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScreenPercentToScaleToV: 0.09
-  ScreenPercentToScaleToH: 0.8
+  UseAnotherRectAsRef: 0
+  refRectTransform: {fileID: 0}
+  PaddingCompensationV: 0
   ConstantUpdate: 1
   ScaleHorizontal: 1
+  ScreenPercentToScaleToV: 0.09
+  ScreenPercentToScaleToH: 0.8
 --- !u!1 &1398939757
 GameObject:
   m_ObjectHideFlags: 0
@@ -2004,6 +2154,7 @@ GameObject:
   - component: {fileID: 1398939761}
   - component: {fileID: 1398939760}
   - component: {fileID: 1398939759}
+  - component: {fileID: 1398939762}
   m_Layer: 0
   m_Name: Pillar Cards
   m_TagString: Untagged
@@ -2103,6 +2254,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1398939757}
   m_CullTransparentMesh: 1
+--- !u!114 &1398939762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398939757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec62ad496fdfc9e4f825023750d2b2a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UseAnotherRectAsRef: 0
+  refRectTransform: {fileID: 0}
+  PaddingCompensationV: 0
+  ConstantUpdate: 1
+  ScaleHorizontal: 0
+  ScreenPercentToScaleToV: 1.9
+  ScreenPercentToScaleToH: 0
 --- !u!1 &1812498096
 GameObject:
   m_ObjectHideFlags: 0
@@ -2191,10 +2361,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec62ad496fdfc9e4f825023750d2b2a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScreenPercentToScaleToV: 0.09
-  ScreenPercentToScaleToH: 0.09
+  UseAnotherRectAsRef: 0
+  refRectTransform: {fileID: 0}
+  PaddingCompensationV: 0
   ConstantUpdate: 1
   ScaleHorizontal: 1
+  ScreenPercentToScaleToV: 0.09
+  ScreenPercentToScaleToH: 0.09
 --- !u!1 &1845889469
 GameObject:
   m_ObjectHideFlags: 0
@@ -2490,10 +2663,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec62ad496fdfc9e4f825023750d2b2a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScreenPercentToScaleToV: 0.1
-  ScreenPercentToScaleToH: 0
+  UseAnotherRectAsRef: 0
+  refRectTransform: {fileID: 0}
+  PaddingCompensationV: 0
   ConstantUpdate: 1
   ScaleHorizontal: 0
+  ScreenPercentToScaleToV: 0.1
+  ScreenPercentToScaleToH: 0
 --- !u!114 &1890428420
 MonoBehaviour:
   m_ObjectHideFlags: 0
