@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Pillar 1/Pillar 1 Ch 1.unity
+- path: Assets/Scenes/Pillar 6/Pillar 6 Ch 2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

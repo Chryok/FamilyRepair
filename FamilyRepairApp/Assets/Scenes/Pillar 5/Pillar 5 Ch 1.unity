@@ -279,6 +279,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570995515580022783, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570995515580022783, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570995515580022783, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -63.205017
+      objectReference: {fileID: 0}
     - target: {fileID: 2210141402329787074, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -299,6 +327,62 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3300043334733409166, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: When you let your child get away with something "sometimes", they learn
+        that it is okay to do "sometimes". WIthout telling them, you are giving a
+        clear message it's okay to do something, but they don't know when it's okay
+        to do it. So, they will repeat the behavior to see what the reaction will
+        be.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3300727333691132560, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Chapter 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617736617302962798, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617736617302962798, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617736617302962798, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 245.1427
+      objectReference: {fileID: 0}
+    - target: {fileID: 3741576273559726817, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3741576273559726817, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3741576273559726817, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4031388297640229272, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Be Fair and Consistent
+      objectReference: {fileID: 0}
     - target: {fileID: 4297643622723393278, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -318,6 +402,10 @@ PrefabInstance:
     - target: {fileID: 4297643622723393278, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297643622723393279, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Children Will Find Ways To Get Attention
       objectReference: {fileID: 0}
     - target: {fileID: 4297643623257419411, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -363,6 +451,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 290.1581
+      objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -180
+      objectReference: {fileID: 0}
     - target: {fileID: 5878851117850704806, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -382,6 +486,54 @@ PrefabInstance:
     - target: {fileID: 5878851117850704806, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -63.205017
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -130.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 288.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -61.3
       objectReference: {fileID: 0}
     - target: {fileID: 6944194890844614929, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -406,6 +558,14 @@ PrefabInstance:
     - target: {fileID: 6944194890844614929, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8588397967332161857, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9030840857224452352, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Inconsistency Can Lead to Testing Behavior
       objectReference: {fileID: 0}
     - target: {fileID: 9054736400268901919, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -453,7 +613,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9113207900000502087, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_Name
-      value: Pillar 1 Chapter 1 Canvas
+      value: Pillar 5 Chapter 1 Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 9113207900000502107, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_Pivot.x
@@ -584,6 +744,40 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9113207900160340633, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900160340634, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: It is important to give a consitent message to your child. That way
+        when you respond to their behavior, positively or negatively, you are being
+        fair and consistent.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900421478863, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900421478863, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900421478863, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
