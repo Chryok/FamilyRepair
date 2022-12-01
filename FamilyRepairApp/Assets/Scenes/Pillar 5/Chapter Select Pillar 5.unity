@@ -395,6 +395,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3173854389917405733, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Be Fair and Consistent
+      objectReference: {fileID: 0}
     - target: {fileID: 3401664522738167002, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -447,6 +451,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4840839927586209249, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: The Rubber Band Rule
+      objectReference: {fileID: 0}
     - target: {fileID: 4891119998181101505, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: sceneToLoadWhenClicked
       value: Pillar 5 Ch 3
@@ -487,6 +495,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6175875898691255346, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Avoiding an Argument
+      objectReference: {fileID: 0}
     - target: {fileID: 6236349090245853901, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -506,6 +518,10 @@ PrefabInstance:
     - target: {fileID: 6729389710698440476, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_EffectColor.a
       value: 0.101960786
+      objectReference: {fileID: 0}
+    - target: {fileID: 7651610398533758599, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Your Children Will Get Your Attention One Way or Another
       objectReference: {fileID: 0}
     - target: {fileID: 7701536770451791002, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
@@ -657,31 +673,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 246.1427
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 289.57
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -61.3
       objectReference: {fileID: 0}
     - target: {fileID: 8969581456578682185, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
