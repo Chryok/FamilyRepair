@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1714.2858
     height: 1060.5715
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -148,10 +148,10 @@ MonoBehaviour:
     y: 30
     width: 1714
     height: 1011
-  m_MinSize: {x: 680, y: 492}
-  m_MaxSize: {x: 14003, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 42
+  controlID: 130
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,8 +171,8 @@ MonoBehaviour:
     y: 0
     width: 424
     height: 1011
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -343,22 +343,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Pillar 8
+    - Assets/Scenes/Pillar 7
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scenes/Pillar 8
+  - Assets/Scenes/Pillar 7
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\s3ang\Documents\SchoolRepos\FamilyRepair\FamilyRepairApp
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 90}
-    m_SelectedIDs: 04450000
-    m_LastClickedID: 17668
-    m_ExpandedIDs: 00000000ec4400000045000000ca9a3b
+    m_SelectedIDs: c6440000
+    m_LastClickedID: 17606
+    m_ExpandedIDs: 00000000a0440000b444000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ec440000
+    m_ExpandedIDs: 00000000a0440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: d4440000
       m_LastClickedID: 0
-      m_ExpandedIDs: 6871ffffb071ffffe871ffff2476ffff2676ffff2876ffff2a76ffffe076ffff9a7effffcc8effffce8effffd08effffdc8effffe28effffe48effffe88effff0c8fffff888fffffaa92ffffc292ffffda92fffff292ffff5094ffffea99ffff7ca1ffff82a1ffff84a1ffff88a1ffffa4a3ffffbca3ffffd4a3ffff90a5ffff3ea6ffffa6a7ffffc8c3ffff22d0ffff82f5ffffa2f5ffffc2f5ffffcef5ffffdcf5ffff00f6ffff14f6ffff22f6ffff2cf6ffff36f6ffff38f6ffff40fbffff1a430000224300002e4300003843000092430000bc430000d6430000684400003066000038660000446600004e660000826600009e660000d0660000ec6a0000f46a0000006b00000a6b00003e6b00004c6b00005a6b00008c6b0000c06c0000e26c0000f06c0000166d00002a6d0000467300005a7300006a730000c47300009c780000be780000c6780000e0780000c47a0000907c0000b87c0000dc7c0000f27c0000
+      m_ExpandedIDs: 9eb8ffff32cdfffffce7ffffa0eafffffaeaffff14ebffff54ebffffb6efffffc2f0ffff10f1ffff62f2ffff64f2ffffaef9ffffc0f9ffffcaf9ffffd8f9fffffaf9ffff0cfaffff16faffff24faffff30faffff3efaffff8cfaffff96faffff98faffff40fbffff064c00002e4c0000364c0000424c00004c4c0000f64c00000c63000020630000306300004a630000246400002c6400003864000042640000866400009a640000ac640000fe6400006a6600007e6600008e660000a0660000a8660000c2660000ca660000e26600000c6700009c6b0000de6b0000ea6b0000006c0000166c0000226c0000386c00004e6c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
