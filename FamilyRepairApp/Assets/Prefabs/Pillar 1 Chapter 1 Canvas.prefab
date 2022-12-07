@@ -1616,7 +1616,7 @@ MonoBehaviour:
   PaddingCompensationV: 0
   ConstantUpdate: 1
   ScaleHorizontal: 1
-  ScreenPercentToScaleToV: 0.4
+  ScreenPercentToScaleToV: 0.25
   ScreenPercentToScaleToH: 1
 --- !u!1 &9113207900765371440
 GameObject:
