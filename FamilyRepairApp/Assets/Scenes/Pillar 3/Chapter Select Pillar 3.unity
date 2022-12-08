@@ -347,6 +347,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3173854389917405733, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Negativity and defiance
+      objectReference: {fileID: 0}
     - target: {fileID: 3430813600147313140, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_Text
       value: Disuptive/Challenging Behavior Is a Way of Coping
@@ -382,6 +386,10 @@ PrefabInstance:
     - target: {fileID: 4453464772477586453, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4840839927586209249, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Power Struggles and avoiding arguments
       objectReference: {fileID: 0}
     - target: {fileID: 4891119998181101505, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: sceneToLoadWhenClicked
@@ -593,31 +601,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 246.1427
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 289.57
       objectReference: {fileID: 0}
     - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -61.3
       objectReference: {fileID: 0}
     - target: {fileID: 8969581456578682185, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y

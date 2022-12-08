@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Pillar 7/Chapter Select Pillar 7.unity
+- path: Assets/Scenes/Pillar 6/Chapter Select Pillar 6.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

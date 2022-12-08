@@ -305,9 +305,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3173854389917405733, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_Text
-      value: 'Categroies of development
-
-'
+      value: Categroies of development
       objectReference: {fileID: 0}
     - target: {fileID: 3430813600147313140, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_Text
