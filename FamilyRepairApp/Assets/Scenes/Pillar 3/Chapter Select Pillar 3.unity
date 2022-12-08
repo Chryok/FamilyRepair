@@ -347,6 +347,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3173854389917405733, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Negativity and Defiance
+      objectReference: {fileID: 0}
     - target: {fileID: 3430813600147313140, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_Text
       value: Disuptive/Challenging Behavior Is a Way of Coping
@@ -382,6 +386,10 @@ PrefabInstance:
     - target: {fileID: 4453464772477586453, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4840839927586209249, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Power Struggles and avoiding arguments
       objectReference: {fileID: 0}
     - target: {fileID: 4891119998181101505, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: sceneToLoadWhenClicked

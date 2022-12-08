@@ -661,6 +661,10 @@ PrefabInstance:
         Along with touching on ADHD disability
         with more detail on aid and understanding'
       objectReference: {fileID: 0}
+    - target: {fileID: 3300727333691132560, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Chapter 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -703,7 +707,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4031388297640229272, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_Text
-      value: Categories of development
+      value: Developmental Level
       objectReference: {fileID: 0}
     - target: {fileID: 4297643622723393278, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
