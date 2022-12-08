@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1714.2858
     height: 1060.5715
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -425,18 +425,18 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000a0440000b444000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Pillar 2
+      m_OriginalName: Pillar 2
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 18374
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -576,18 +576,18 @@ MonoBehaviour:
       m_ExpandedIDs: 9eb8ffff32cdfffffce7ffffa0eafffffaeaffff14ebffff54ebffffb6efffffc2f0ffff10f1ffff62f2ffff64f2ffffaef9ffffc0f9ffffcaf9ffffd8f9fffffaf9ffff0cfaffff16faffff24faffff30faffff3efaffff8cfaffff96faffff98faffff40fbffff064c00002e4c0000364c0000424c00004c4c0000f64c00000c63000020630000306300004a630000246400002c6400003864000042640000866400009a640000ac640000fe6400006a6600007e6600008e660000a0660000a8660000c2660000ca660000e26600000c6700009c6b0000de6b0000ea6b0000006c0000166c0000226c0000386c00004e6c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Chapter Card Prefab (1)
+        m_OriginalName: Chapter Card Prefab (1)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -81358
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 

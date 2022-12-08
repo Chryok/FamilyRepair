@@ -486,7 +486,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Section 2
+  m_Text: Section 3
 --- !u!222 &1478423179
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -585,9 +585,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Children experience the greatest level of overall development in the first
-    5 years of life are a critically important time in brain development. These first
-    years are so important because tehy cannot be replicated
+  m_Text: "Connecting the dots in your child's behavior and how it affects you, that
+    is a victory because YOU are more in control\r.\nYou cannot MAKE your child think
+    like you do, so you must think like them first. If they are not doing as you
+    say there is usually a way to explain behavior, look into what you are doing
+    and how they have reacted\r\n"
 --- !u!222 &1812111448
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -653,9 +655,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3300043334733409166, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_Text
-      value: Children experience the greatest level of overall development in the
-        first 5 years of life are a critically important time in brain development.
-        These first years are so important because tehy cannot be replicated
+      value: 'Developmental skills and coping mechanisms can change in response to
+        stress, morale and trauma.
+
+        Along with touching on ADHD disability
+        with more detail on aid and understanding'
       objectReference: {fileID: 0}
     - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1055,9 +1059,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9113207900160340634, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_Text
-      value: "There are separate and distinct categories of development - physical,
-        emotional, personal-social, language, cognitive, etc. Each can unfold and
-        grow at different rates.\r"
+      value: 'Developmental level often does not match the individual''s age in one
+        or more of the areas of growth. So you have to balance communicating to both.
+        The developmental level of both child and caretaker affect the outcome of
+        any interaction, recognition and time have a tremendous effect on good response
+        when the levels are matched
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 9113207900421478863, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
