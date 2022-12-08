@@ -347,6 +347,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4031388297640229272, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Children's Thinking
+      objectReference: {fileID: 0}
     - target: {fileID: 4297643622723393278, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
