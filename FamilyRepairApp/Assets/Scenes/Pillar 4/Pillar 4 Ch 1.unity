@@ -279,6 +279,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1482865543007038470, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570995515580022783, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570995515580022783, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1570995515580022783, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2210141402329787074, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -299,6 +327,60 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2385344029460233498, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Always Appear Certain
+      objectReference: {fileID: 0}
+    - target: {fileID: 3300043334733409166, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: We all need to feel safe and live in a world that is predictable. Knowing
+        the rules and boundaries can prevent "testing" behavior from occurring in
+        the first place.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3393812161642152059, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617736617302962798, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617736617302962798, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3617736617302962798, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 245.1427
+      objectReference: {fileID: 0}
+    - target: {fileID: 3741576273559726817, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3741576273559726817, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3741576273559726817, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4031388297640229272, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Knowing That You're "In Charge" Helps Your Child Feel Safe
+      objectReference: {fileID: 0}
     - target: {fileID: 4297643622723393278, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -318,6 +400,10 @@ PrefabInstance:
     - target: {fileID: 4297643622723393278, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4297643622723393279, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Boundaries Give Children Comfort
       objectReference: {fileID: 0}
     - target: {fileID: 4297643623257419411, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -363,6 +449,28 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5580948751874357427, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Even when you are not sure how to handle a situation, that's okay. What
+        matters is that you are open and tell your child that you need time to think
+        and will tell him or her what you decide.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5724602681618302065, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5878851117850704806, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -382,6 +490,54 @@ PrefabInstance:
     - target: {fileID: 5878851117850704806, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5997878599706164267, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6620750755728564031, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 288.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 6668161171936716581, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -61.3
       objectReference: {fileID: 0}
     - target: {fileID: 6944194890844614929, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -406,6 +562,10 @@ PrefabInstance:
     - target: {fileID: 6944194890844614929, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9030840857224452352, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: Predictability and Safety are Important
       objectReference: {fileID: 0}
     - target: {fileID: 9054736400268901919, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -584,6 +744,40 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9113207900160340633, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900160340634, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: It may not seem like it, but boundaries and clear rules with set outcomes
+        give children a sense of security.  Knowing the rules gives your child stability
+        and stops them needing to test the limits of their world.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900421478863, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900421478863, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207900421478863, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113207901229687216, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}

@@ -33,17 +33,38 @@ EditorBuildSettings:
     path: Assets/Scenes/Pillar 4/Pillar 4 Ch 1.unity
     guid: 30237757261a1cf49ab35f5fb8f0eb6d
   - enabled: 1
+    path: Assets/Scenes/Pillar 4/Pillar 4 Ch 2.unity
+    guid: cdc7b5639ed2945c69c1de839c84970c
+  - enabled: 1
+    path: Assets/Scenes/Pillar 4/Pillar 4 Ch 3.unity
+    guid: 3d2c8eb1974be49879c9ae1b9b8f0fc3
+  - enabled: 1
+    path: Assets/Scenes/Pillar 4/Pillar 4 Ch 4.unity
+    guid: 82f273cd87b3a46efb4ded7a9f209a23
+  - enabled: 1
     path: Assets/Scenes/Pillar 5/Chapter Select Pillar 5.unity
     guid: de2c64e13b947fc499b50cbb7513172b
   - enabled: 1
     path: Assets/Scenes/Pillar 5/Pillar 5 Ch 1.unity
     guid: 338561fbdec44634aa7d8fce5b8fafcb
   - enabled: 1
+    path: Assets/Scenes/Pillar 5/Pillar 5 Ch 2.unity
+    guid: 7dbaaa79d94164069817a47591eaa40a
+  - enabled: 1
+    path: Assets/Scenes/Pillar 5/Pillar 5 Ch 3.unity
+    guid: 892f2e772d01f492db8a3b50283f0bf6
+  - enabled: 1
+    path: Assets/Scenes/Pillar 5/Pillar 5 Ch 4.unity
+    guid: 9666dda0b48dc4f0b8b9575ef254fa6a
+  - enabled: 1
     path: Assets/Scenes/Pillar 6/Chapter Select Pillar 6.unity
     guid: e8f4cf648401fde4682d34c61d25c408
   - enabled: 1
     path: Assets/Scenes/Pillar 6/Pillar 6 Ch 1.unity
     guid: f3d6aa05bfad3ad4dab57aeba3f65cb0
+  - enabled: 1
+    path: Assets/Scenes/Pillar 6/Pillar 6 Ch 2.unity
+    guid: b181cd36ff736472f9ae693824c79fc8
   - enabled: 1
     path: Assets/Scenes/Pillar 7/Chapter Select Pillar 7.unity
     guid: 943d41cd34ff1e846bdd101547d8e2dc
