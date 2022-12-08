@@ -443,6 +443,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9113207899805191353, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9113207900000502087, guid: 8b3c33c85e9b0cf4789e70eb2083acfc, type: 3}
       propertyPath: m_Name
       value: Pillar 1 Chapter 1 Canvas
