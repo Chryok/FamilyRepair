@@ -62,4 +62,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pillar 9/Pillar 9 Ch 1.unity
     guid: 7474f9b3483423b4298e2443326179ab
+  - enabled: 1
+    path: Assets/Scenes/Pillar 8/Pillar 8 Ch 2.unity
+    guid: d0665e53a9e3e834db4a1302eb1e6004
+  - enabled: 1
+    path: Assets/Scenes/Pillar 8/Pillar 8 Ch 3.unity
+    guid: 579a9b2c4fba5ef49907f13b20238e1f
+  - enabled: 1
+    path: Assets/Scenes/Pillar 7/Pillar 7 Ch 2.unity
+    guid: f240bfb659ae1604699f5a8fe0053bf6
   m_configObjects: {}
