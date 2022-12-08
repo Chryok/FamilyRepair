@@ -303,6 +303,52 @@ PrefabInstance:
       propertyPath: sceneToLoadWhenClicked
       value: Pillar 2 Ch 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3173854389917405733, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: 'Categroies of development
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3430813600147313140, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Emotional Age Affects Our Feelings and Behavior
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156299023683529993, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156299023683529993, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156299023683529993, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156299023683529993, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4453464772477586453, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4453464772477586453, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4453464772477586453, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4453464772477586453, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4840839927586209249, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Developmental Level
+      objectReference: {fileID: 0}
     - target: {fileID: 4891119998181101505, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: sceneToLoadWhenClicked
       value: Pillar 2 Ch 3
@@ -324,6 +370,38 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4891119998181101564, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974085486936122321, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974085486936122321, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974085486936122321, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974085486936122321, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6236349090245853901, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6236349090245853901, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6236349090245853901, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6236349090245853901, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
@@ -350,6 +428,34 @@ PrefabInstance:
     - target: {fileID: 7701536770451791015, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: sceneToLoadWhenClicked
       value: Pillar 2 Ch 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997627951369531515, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997627951369531515, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997627951369531515, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997627951438853047, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997627951438853047, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997627951438853047, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997627951438853047, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7997627952837737354, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_Pivot.x
@@ -438,6 +544,38 @@ PrefabInstance:
     - target: {fileID: 7997627952837737462, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_Name
       value: Chapter Select Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8025838580959791668, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_Text
+      value: Pillar 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8025838580959791669, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8708050457140229866, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8969581456578682185, guid: 8db195b38290a744c8f96dc6e57ae22b, type: 3}
       propertyPath: m_AnchorMax.y
